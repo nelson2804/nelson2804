@@ -1,6 +1,6 @@
 ### Hi, My name is Nelson Arrais 👋
 
-![Nelson Arrais](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson2804&hide_progress=true)
+![Nelson Arrais](https://github-readme-stats.vercel.app/api?username=nelson2804&show_icons=true&theme=dark)
 
 ## Skills
 
