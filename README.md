@@ -1,8 +1,9 @@
-### Hi, My name is Nelson Arrais 👋
+### Hi, I'm 
+###Nelson Arrais 👋
 
 ![Nelson Arrais](https://github-readme-stats.vercel.app/api?username=nelson2804&show_icons=true&theme=dark)
 
-## Skills
+### My Skills
 
 <div style="dysplay: inline_block"><br/>
   <img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
